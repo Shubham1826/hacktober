@@ -1,3 +1,3 @@
 # hacktober
 
-readme file
+Accepting codes for hacktoberfest2021
